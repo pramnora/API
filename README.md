@@ -3,6 +3,14 @@
 
 -----
 
+## Explanation
+
+The web, now-a-days, contains many API's...; and, these API's allow programmers to interact with other software.
+
+The full extent of the what kinds of interaction is allowed...is decided by the API provider themselves.
+
+-----
+
 ## cURL
 
 If you are using Windows; then, run a MS DOS prompt; and, type in...    
