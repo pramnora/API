@@ -5,9 +5,15 @@
 
 ## Explanation
 
-The web, now-a-days, contains many API's...; and, these API's allow programmers to interact with other software.
+The web, now-a-days, contains many API's...; and, these API's allow programmers to 'interact' with other people's/or, company owned software.
 
-The full extent of the what kinds of interaction is allowed...is decided by the API provider themselves.
+The full extent of the what kinds of 'interaction' is allowed...is decided by the API provider themselves.
+
+Most API providers will apply certain restrictions on how their API's can be used...
+
+- what is allowed/or, is not allowed   
+- how many users can be running the API all together at once (so as not to clog up their system server/s)  
+- etc.  
 
 -----
 
