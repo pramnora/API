@@ -5,7 +5,7 @@ API/Application Programming Interface
 
 ## cURL
 
-Run a MS DOS prompt; and, type in...    
+If you are using Windows; then, run a MS DOS prompt; and, type in...    
 
 > curl - V
 
