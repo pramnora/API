@@ -13,11 +13,10 @@ Most API providers will apply certain restrictions on how their API's can be use
 
 - what is allowed/or, is **not** allowed   
 - how *many* users can be running the API all together, at once/(so as not to clog up their system server/s)  
+- Some API's will demand *user authentication*, first; **before** you will be able to use it. The instructions of how to do this are, usually, included on their web site.    
 - etc.  
 
-**NOTE(1)**: It's actually possible to link together one API to use with a next; and, thus, build programs which are using *multiple* API's together.  
-
-**NOTE(2)**: Some API's will demand *user authentication*, first; **before** you will be able to use it. The instructions of how to do this are, usually, included on their web site.  
+**NOTE**: It's actually possible to link together one API to use with a next; and, thus, build programs which are using *multiple* API's together.  
 
 -----
 
