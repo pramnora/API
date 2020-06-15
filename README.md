@@ -13,7 +13,18 @@ The full extent of the what kinds of interaction is allowed...is decided by the 
 
 ## cURL
 
-If you are using Windows; then, run a MS DOS prompt; and, type in...    
+If you are using Windows OS/Operating System; then, run a MS DOS/Microsoft Disk Operating System prompt...
+
+Combination keypress:   
+[WinPictureIconKey] + [R]  
+...opens a RUN dialog box...; and, now, type in:  
+
+> CMD
+
+...and, click [OK]   
+...this should open up a 'new' MS DOS prompt window...ready for typing further commands into.    
+
+Into the MS DOS prompt window type in...    
 
 > curl - V
 
