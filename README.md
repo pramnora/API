@@ -5,9 +5,11 @@ API/Application Programming Interface
 
 ## cURL
 
-1 - run a MS DOS prompt  
-2 - type in: curl - V   (...to discover which version you are currently using)  
-3 - go to the following URL address to download the latest cURL version:  
+Run a MS DOS prompt; and, type in...    
+> curl - V  
+(...to discover which version you are currently using)     
+
+You may go to the following URL address to download the 'latest' cURL version for your particular OS platform:    
 
 * https://curl.haxx.se/download.html
 
