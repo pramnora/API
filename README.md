@@ -5,7 +5,7 @@
 
 ## Explanation
 
-The web, now-a-days, contains many API's...; and, these API's allow programmers to 'interact' with other people's/or, company owned software.
+The web, now-a-days, contains many different API's...; and, these API's allow programmers to 'interact' with other people's/or, company owned software.  
 
 The full extent of the what kinds of personal 'interaction' is allowed...is decided by the API provider themselves.
 
@@ -14,6 +14,10 @@ Most API providers will apply certain restrictions on how their API's can be use
 - what is allowed/or, is **not** allowed   
 - how *many* users can be running the API all together, at once/(so as not to clog up their system server/s)  
 - etc.  
+
+**NOTE(1)**: It's actually possible to link together one API to use with a next; and, thus, build programs which are using *multiple* API's together.  
+
+**NOTE(2)**: Some API's will demand *user authentication*, first; **before** you will be able to use it. The instructions of how to do this are, usually, included on their web site.  
 
 -----
 
@@ -40,7 +44,7 @@ You may go to the following URL address to download the 'latest' cURL version fo
 
 * https://curl.haxx.se/download.html  
 
-In order to learn more about what are the various *options* available when using cURL; then, open up an MS DOS Prompt window, and, type in:    
+In order to learn more about what are the various *options* available when using cURL; then, into the MS DOS Prompt window, type in:    
 
 C:\>curl --help  
 
