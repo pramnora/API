@@ -52,4 +52,16 @@ C:\>curl --help
 ## Links
 
 cURL   
-* https://curl.haxx.se/download.html
+* https://curl.haxx.se/download.html  
+
+## Publically available API's  
+
+http://www.spotify.com  
+http://www.spotify.com/developer  
+
+
+
+
+
+
+
