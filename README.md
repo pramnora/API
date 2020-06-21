@@ -57,7 +57,7 @@ cURL
 ## Publically available API's  
 
 http://www.spotify.com  
-http://www.spotify.com/developer  
+http://developer.spotify.com
 
 
 
